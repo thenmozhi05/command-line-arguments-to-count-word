@@ -39,7 +39,7 @@ print("Total Words:",len(words))
 
 ![image](https://github.com/AnnaLahari/command-line-arguments-to-count-word/assets/149365425/a25ea266-b527-4dae-a6ea-7bc59750834c)
 
-![WhatsApp Image 2023-12-16 at 10 23 41_f4e1ac57](https://github.com/AnnaLahari/command-line-arguments-to-count-word/assets/149365425/81a3764c-5b05-4b37-957f-4bac3a3454ea)
+![image](https://github.com/thenmozhi05/command-line-arguments-to-count-word/assets/140684207/c4a2fc5c-338b-46a4-8664-4beb6a2cb284)
 
 
 ## RESULT:
